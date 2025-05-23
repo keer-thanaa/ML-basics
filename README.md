@@ -8,9 +8,6 @@ I used a small dataset of house areas and their prices to explore the relationsh
 ### 🔍 Observation
 There is a clear linear trend — as area increases, so does the price — suggesting that a linear regression model might fit well.
 
-## 📊 Visualization
-![Scatter Plot](images/scatter_plot.png)
-
 ## 🧰 Tools Used
 - Python
 - Jupyter Notebook
